@@ -1,0 +1,7 @@
+D:\Aishie\Nauka C#\Basic Course - Exercise 1\Basic Course - Exercise 1\obj\Debug\Basic Course - Exercise 1.csprojAssemblyReference.cache
+D:\Aishie\Nauka C#\Basic Course - Exercise 1\Basic Course - Exercise 1\obj\Debug\Basic Course - Exercise 1.csproj.CoreCompileInputs.cache
+D:\Aishie\Nauka C#\Basic Course - Exercise 1\Basic Course - Exercise 1\bin\Debug\Basic Course - Exercise 1.exe.config
+D:\Aishie\Nauka C#\Basic Course - Exercise 1\Basic Course - Exercise 1\bin\Debug\Basic Course - Exercise 1.exe
+D:\Aishie\Nauka C#\Basic Course - Exercise 1\Basic Course - Exercise 1\bin\Debug\Basic Course - Exercise 1.pdb
+D:\Aishie\Nauka C#\Basic Course - Exercise 1\Basic Course - Exercise 1\obj\Debug\Basic Course - Exercise 1.exe
+D:\Aishie\Nauka C#\Basic Course - Exercise 1\Basic Course - Exercise 1\obj\Debug\Basic Course - Exercise 1.pdb
